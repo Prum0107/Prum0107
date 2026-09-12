@@ -10,15 +10,15 @@ My interests include agent evaluation and post-training, audio-language models, 
 
 ### [AgentRel](https://github.com/Prum0107/agentrel)
 
-A failure-diagnosis and intervention workbench for tool-using LLM agents. It captures trajectories, injects deterministic faults, evaluates live task state, and routes evidence toward the smallest proposed intervention. Current results are controlled development evidence; held-out intervention generalization remains unestablished.
+A failure-diagnosis and intervention workbench for tool-using LLM agents, connecting trajectory evidence to training, runtime, interface, or environment interventions.
 
 ### [Boundary Quality Calibration for Audio Moment Retrieval](https://github.com/Prum0107/Boundary-Quality-Calibration-for-Audio-Moment-Retrieval)
 
-A study of candidate selection in audio moment retrieval: when a usable candidate already exists, can its score reflect temporal boundary quality? The current evidence is scoped to the generated candidate pool and the evaluated AMR setup; cross-host validation remains open.
+A study of candidate selection in audio moment retrieval: when a usable candidate already exists, can its score reflect temporal boundary quality?
 
 ### [Short-Event AMR](https://github.com/Prum0107/short-event-amr)
 
-Diagnosing why short-duration audio moments disproportionately fail, with a focus on candidate availability, localization, and temporal scale. This is an ongoing diagnosis-first research archive; current evidence does not establish a single causal mechanism or architecture-independent generalization.
+Diagnosing why short-duration audio moments disproportionately fail, with a focus on candidate availability, localization, and temporal scale.
 
 ### [DraftMind](https://github.com/Prum0107/NBA_DraftCode_Liverham)
 
