@@ -1,6 +1,6 @@
 # Xiaokai Zhang
 
-Undergraduate at Xi'an Jiaotong-Liverpool University (XJTLU).
+Year 3 BEng Artificial Intelligence student at Xi'an Jiaotong-Liverpool University (XJTLU), expected to graduate in 2028.
 
 I study and build reliable LLM agents and multimodal audio systems.
 
