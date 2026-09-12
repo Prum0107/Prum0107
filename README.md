@@ -16,6 +16,8 @@ A failure-diagnosis and intervention workbench for tool-using LLM agents, connec
 
 A study of candidate selection in audio moment retrieval: when a usable candidate already exists, can its score reflect temporal boundary quality?
 
+*NCMMSC 2026 — presentation-only, non-archival.*
+
 ### [Short-Event AMR](https://github.com/Prum0107/short-event-amr)
 
 Diagnosing why short-duration audio moments disproportionately fail, with a focus on candidate availability, localization, and temporal scale.
