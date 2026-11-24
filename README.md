@@ -1,44 +1,33 @@
 # Xiaokai Zhang
 
-Year 3 BEng Artificial Intelligence student at Xi'an Jiaotong-Liverpool University (XJTLU), expected to graduate in 2028.
+BEng Artificial Intelligence student at Xi'an Jiaotong-Liverpool University (XJTLU), expected 2028.
 
-I study and build reliable LLM agents and multimodal audio systems.
+My research focuses on **multimodal audio systems** and **reliable LLM agents**, with an emphasis on empirical failure diagnosis, calibration, and post-training.
 
-My interests include agent evaluation and post-training, audio-language models, and open-source AI systems.
-
-## Selected Work
-
-### [AgentRel](https://github.com/Prum0107/agentrel)
-
-A failure-diagnosis and intervention workbench for tool-using LLM agents, connecting trajectory evidence to training, runtime, interface, or environment interventions.
+## Selected Research
 
 ### [Boundary Quality Calibration for Audio Moment Retrieval](https://github.com/Prum0107/Boundary-Quality-Calibration-for-Audio-Moment-Retrieval)
+*NCMMSC 2026 (presentation-only, non-archival)*
 
-A study of candidate selection in audio moment retrieval: when a usable candidate already exists, can its score reflect temporal boundary quality?
-
-*NCMMSC 2026 — presentation-only, non-archival.*
+Studies candidate selection in DETR-style audio moment retrieval: teaching decoder candidates to estimate their own temporal boundary quality rather than relying solely on foreground confidence.
 
 ### [Short-Event AMR](https://github.com/Prum0107/short-event-amr)
+*Open diagnostic archive (DCASE 2026 Task 6)*
 
-Diagnosing why short-duration audio moments disproportionately fail, with a focus on candidate availability, localization, and temporal scale.
+Examines why short-duration audio moments disproportionately fail under strict temporal retrieval metrics, separating candidate availability, localization, and temporal-scale effects from downstream ranking.
 
-### [DraftMind](https://github.com/Prum0107/NBA_DraftCode_Liverham)
+### [AgentRel](https://github.com/Prum0107/agentrel)
+*Research workbench for tool-using LLM agents*
 
-Supporting engineering work: an evidence-grounded, team-aware NBA draft prediction system with a deterministic pipeline and bounded LLM components. The profile describes the engineering work without relying on the repository's public deployment endpoints.
+Failure-diagnosis and intervention workbench connecting live-environment trajectory evidence to targeted model, runtime, interface, or environment fixes with regression verification.
 
-## Open Source
+## Research Interests
 
-- [OpenHands Software Agent SDK — PR #4470](https://github.com/OpenHands/software-agent-sdk/pull/4470) — **Open PR**: stable task identifiers for task tracking and persistence.
-- [tau2-bench — PR #467](https://github.com/sierra-research/tau2-bench/pull/467) — **Open PR**: evaluator provenance for live evaluation and reference replay.
-
-## Current Interests
-
+- Audio-language models and temporal audio understanding (Audio Moment Retrieval)
+- Empirical diagnostics, evaluation, and calibration for multimodal and agentic systems
 - Agent post-training and reinforcement learning
-- Multimodal agents
-- Inference systems and SGLang
-- Audio-language systems
 
 ## Contact
 
-- [GitHub](https://github.com/Prum0107)
-- [Institutional email](mailto:Xiaokai.Zhang24@student.xjtlu.edu.cn)
+- Email: [Xiaokai.Zhang24@student.xjtlu.edu.cn](mailto:Xiaokai.Zhang24@student.xjtlu.edu.cn)
+- GitHub: [@Prum0107](https://github.com/Prum0107)
